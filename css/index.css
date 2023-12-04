@@ -7,5 +7,8 @@
 /* Header */
     @import 'header.css';
 
+/* Projects */   
+    @import 'projects.css';
+
 /* Footer */
     @import 'footer.css';
