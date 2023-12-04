@@ -1,0 +1,18 @@
+.nav {
+    background-color: var(--dark-bg) ;
+    color: var(--header-text);
+    padding: 20px 0;
+    border-bottom: 1px solid var(--dark-border);
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: normal;
+}
+
+.nav__list {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline var(--accent);
+}
+
+.nav__list-link {
+    transition: opacity 0.2s ease-in;
+}

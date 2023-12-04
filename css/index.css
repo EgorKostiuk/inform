@@ -1,5 +1,8 @@
 @import 'reset.css';
 @import 'default.css';
 
+/* Navigation */
+    @import 'nav.css';
+
 /* Header */
     @import 'header.css';
