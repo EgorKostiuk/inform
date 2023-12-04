@@ -9,6 +9,8 @@
 
 /* Projects */   
     @import 'projects.css';
+        /* Projects details */
+            @import 'projects-details.css';
 
 /* Footer */
     @import 'footer.css';

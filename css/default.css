@@ -59,6 +59,12 @@ fieldset {
     border: 0;
 }
 
+.container {
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 1200px;
+}
+
 :root {
     --black: #171718;
     --black-border: #26292D;

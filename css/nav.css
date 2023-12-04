@@ -5,6 +5,14 @@
     border-bottom: 1px solid var(--dark-border);
     font-family: 'Poppins', sans-serif;
     letter-spacing: normal;
+    display: flex;
+    justify-content: center;
+}
+
+.nav__container {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
 }
 
 .nav__list {
