@@ -12,6 +12,12 @@
 .nav__container {
     display: flex;
     justify-content: space-between;
+    width: 350px;
+}
+
+.nav__container1 {
+    display: flex;
+    justify-content: space-between;
     width: 250px;
 }
 
