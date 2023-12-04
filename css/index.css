@@ -1,2 +1,5 @@
 @import 'reset.css';
 @import 'default.css';
+
+/* Header */
+    @import 'header.css';
