@@ -86,3 +86,17 @@ fieldset {
     text-align: center;
     color: var(--accent);
 }
+
+.sentence {
+    display: block;
+}
+
+.PS {
+    margin-bottom: 20px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.PS__link {
+    color: var(--accent);
+}
